@@ -52,6 +52,7 @@ I'm improving my skills in:
 
 ## 📈 GitHub Stats  
 ![Safiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CocoMacNugget&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=CocoMacNugget
 
 ---
 
