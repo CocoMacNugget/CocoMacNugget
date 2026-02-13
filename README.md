@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently in my **second year in IT**.
-- 🌱 I’m currently learning: **Python**  and **PHP**.  
+- 🔭 I’m currently in my **third year in IT**.
+- 🌱 I’m currently learning: **PHP**.  
 - 🎓 I’m studying a **Diploma in ICT in Application Development** at **Cape Peninsula University of Technology**  
 - 💬 Ask me about: I am familiar with **Java, JavaScript, HTML and CSS** 
 - ⚡ Fun fact: I enjoy **Science, Architecture and Construction, Arts, Geography** and **Astronomy**.
@@ -14,34 +14,41 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills and Tools  
 
-**Languages (Learning):**  
+**Languages:**  
 
 I’m improving my skills in:  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-I'm learning:   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+I'm learning:                                                        
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Frontend Development (Learning):**  
+**Frontend Development:**  
 
 I’m currently improving my skills in:  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-
-**Tools & Technologies (Learning):**  
+                                   
+**Tools & Technologies:**  
 
 I’m still mastering the following tools:  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)    
-![WAMP](https://img.shields.io/badge/WAMP-FF8800?style=for-the-badge&logo=windows&logoColor=white)
+![WAMP](https://img.shields.io/badge/WAMP-FF8800?style=for-the-badge&logo=windows&logoColor=white)                                        
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
+## 🎨 Design Tools
+
+I'm improving my skills in:                                   
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)                              
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)                                  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+
+---
 
 ## 📈 GitHub Stats  
 ![Safiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CocoMacNugget&show_icons=true&theme=radical)
