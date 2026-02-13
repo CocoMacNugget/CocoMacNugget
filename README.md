@@ -44,15 +44,16 @@ I’m still mastering the following tools:
 ## 🎨 Design Tools
 
 I'm improving my skills in:                                   
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)                              
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)                                  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)                            
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)                   
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
 ---
 
 ## 📈 GitHub Stats  
-![Safiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CocoMacNugget&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api?username=CocoMacNugget
+![Safiya's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CocoMacNugget&theme=radical)       
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CocoMacNugget&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CocoMacNugget&theme=radical)    
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CocoMacNugget&theme=radical&utcOffset=2)     
 
 ---
 
